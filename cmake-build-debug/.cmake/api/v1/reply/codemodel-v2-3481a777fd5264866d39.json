@@ -1,0 +1,393 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GSSS_SEP_CSE_B2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2-Debug-635832093b078cc4d0b3.json",
+					"name" : "GSSS_SEP_CSE_B2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_0-Debug-2fd03e94b6cabe902ce5.json",
+					"name" : "GSSS_SEP_CSE_B2_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_1-Debug-a12339812bdbaa695c3d.json",
+					"name" : "GSSS_SEP_CSE_B2_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_10-Debug-e82bd74405e3b90d6e5b.json",
+					"name" : "GSSS_SEP_CSE_B2_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_11-Debug-10bc373017e6daca150b.json",
+					"name" : "GSSS_SEP_CSE_B2_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_12-Debug-399249938c87fa88a071.json",
+					"name" : "GSSS_SEP_CSE_B2_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_13-Debug-8b4529a92974d8843dfa.json",
+					"name" : "GSSS_SEP_CSE_B2_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_14-Debug-76d07773cf2dbe71c7bc.json",
+					"name" : "GSSS_SEP_CSE_B2_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_15-Debug-e38fdd9bbe684c5be2fc.json",
+					"name" : "GSSS_SEP_CSE_B2_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_16-Debug-0d32bd13bff48120b185.json",
+					"name" : "GSSS_SEP_CSE_B2_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_17-Debug-e0af2ad4ae0b1eb980c8.json",
+					"name" : "GSSS_SEP_CSE_B2_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_18-Debug-86f5b5ae1e483e7bee9c.json",
+					"name" : "GSSS_SEP_CSE_B2_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_19-Debug-356389e1b5a8c29a7f54.json",
+					"name" : "GSSS_SEP_CSE_B2_19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_2-Debug-d8202a520deaf4cdc71a.json",
+					"name" : "GSSS_SEP_CSE_B2_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_20-Debug-33cf756308accae237ed.json",
+					"name" : "GSSS_SEP_CSE_B2_20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_21-Debug-3f2e7a7435965537319a.json",
+					"name" : "GSSS_SEP_CSE_B2_21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_22-Debug-cc0363dd05597597a9e4.json",
+					"name" : "GSSS_SEP_CSE_B2_22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_23-Debug-7adb17fcd50f82f8f2c9.json",
+					"name" : "GSSS_SEP_CSE_B2_23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_24-Debug-ffb189188a16dc7b3f9b.json",
+					"name" : "GSSS_SEP_CSE_B2_24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_25-Debug-27302c8da32135305657.json",
+					"name" : "GSSS_SEP_CSE_B2_25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_26::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_26-Debug-795dcf8deba13196ba88.json",
+					"name" : "GSSS_SEP_CSE_B2_26",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_27::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_27-Debug-750c9d556a7e09fc22a7.json",
+					"name" : "GSSS_SEP_CSE_B2_27",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_28::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_28-Debug-a324a9b717d30ede4f32.json",
+					"name" : "GSSS_SEP_CSE_B2_28",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_29::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_29-Debug-7e93fbb27f203b6feac4.json",
+					"name" : "GSSS_SEP_CSE_B2_29",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_3-Debug-80f39789416863dad72d.json",
+					"name" : "GSSS_SEP_CSE_B2_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_30::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_30-Debug-1411a5a53b4aa49ddbde.json",
+					"name" : "GSSS_SEP_CSE_B2_30",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_31-Debug-6b2d892e0b047aa86f89.json",
+					"name" : "GSSS_SEP_CSE_B2_31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_32-Debug-7925b33dff6a6d141898.json",
+					"name" : "GSSS_SEP_CSE_B2_32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_33::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_33-Debug-ca9671a6d736ed6d1587.json",
+					"name" : "GSSS_SEP_CSE_B2_33",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_34::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_34-Debug-05b0f1ee3b860d6ef0b6.json",
+					"name" : "GSSS_SEP_CSE_B2_34",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_35::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_35-Debug-180280c806d2272b41d7.json",
+					"name" : "GSSS_SEP_CSE_B2_35",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_36::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_36-Debug-793ce0afa72f5695d94f.json",
+					"name" : "GSSS_SEP_CSE_B2_36",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_4-Debug-599e3ce6a8ebb9c8b26e.json",
+					"name" : "GSSS_SEP_CSE_B2_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_5-Debug-782b07d816651b808fb6.json",
+					"name" : "GSSS_SEP_CSE_B2_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_6-Debug-5e72bf9abd23f4199e65.json",
+					"name" : "GSSS_SEP_CSE_B2_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_7-Debug-3d3c856a5f4cb7e56caa.json",
+					"name" : "GSSS_SEP_CSE_B2_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_8-Debug-4ee6e0a2ee23fb1f5bae.json",
+					"name" : "GSSS_SEP_CSE_B2_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_SEP_CSE_B2_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_SEP_CSE_B2_9-Debug-a4b7e16c6092b76e82d7.json",
+					"name" : "GSSS_SEP_CSE_B2_9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Saurav/CLionProjects/GSSS-SEP-CSE-B2/cmake-build-debug",
+		"source" : "C:/Users/Saurav/CLionProjects/GSSS-SEP-CSE-B2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
